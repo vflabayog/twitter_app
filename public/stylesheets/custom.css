@@ -22,6 +22,10 @@ section {
 	background: #fff;
 }
 
+h1 {
+	font-size: 200%;
+}
+
 /* Links */
 
 a {
