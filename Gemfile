@@ -29,6 +29,7 @@ gem 'mysql'
  group :development, :test do
    gem 'rspec-rails'
    gem 'webrat'
+   gem 'annotate-models'
  end
  
  group :test do
